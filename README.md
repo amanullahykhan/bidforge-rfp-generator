@@ -1,8 +1,3 @@
-Here is a markdown template that perfectly replicates the sleek, centered, and modern layout from the image you uploaded, applied directly to your **BidForge AI** project.
-
-This layout uses standard HTML tags inside the markdown to achieve the centered header, horizontal links, and the clean feature table.
-
-```markdown
 <div align="center">
 
   <img src="https://via.placeholder.com/150/000000/3776AB?text=BidForge+AI" width="150" alt="BidForge AI Logo">
@@ -43,8 +38,6 @@ Built on a **pluggable AI architecture**, BidForge AI lets you swap between lead
    ```bash
    git clone [https://github.com/amanulllahykhan/bidforge-ai.git](https://github.com/amanulllahykhan/bidforge-ai.git)
    cd bidforge-ai
-
-```
 
 2. **Install dependencies:**
 Ensure you have Python installed, then run:
