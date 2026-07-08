@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/150/000000/3776AB?text=BidForge+AI" width="150" alt="BidForge AI Logo">
+  <img src="assets/Screenshot1.png" width="600" alt="App UI Snapshot">
 
   # BidForge AI
 
