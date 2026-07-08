@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/Screenshot1.png" width="600" alt="App UI Snapshot">
+  <img src="Screenshot1.jpg" width="600" alt="App UI Snapshot">
 
   # BidForge AI
 
